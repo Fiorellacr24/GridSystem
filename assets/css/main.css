@@ -80,7 +80,7 @@
 }
 .col-12{
 	float: left;
-    height: 500px;
+    height: 300px;
     padding: 10px;
     width: 100%;
 }
@@ -93,4 +93,13 @@
 }
 .claro{
 	background-color: #dcdddf;
+}
+#altura .col-4{
+	height: 600px;
+}
+#altura .col-12{
+	height: 500px;
+}
+#altura .col-8{
+	height: 500px;
 }
